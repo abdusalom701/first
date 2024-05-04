@@ -1,0 +1,30 @@
+.lab{
+    color: yellow;
+    background-color: black;
+    border-color: red;
+    border-radius: 5px;
+    height: 100px;
+}
+.cas{
+    text-align: center;
+    background-color: aqua;
+    
+}
+.za{
+    height: 200px;
+}
+div{
+    background-color: black;
+    text-align: center; 
+    height: 400px;
+}
+.yosuv{
+    color: black;
+    background-color: aliceblue;
+    width: 1044px;
+    border-radius: 20px;
+    text-align: center;
+}
+.ks{
+    color: red;
+}
